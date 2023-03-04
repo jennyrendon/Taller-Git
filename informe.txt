@@ -1,2 +1,4 @@
 En el dia de hoy los temas tratados son:
 Que es un sistema de control de versiones
+Ramas como ignorar archivos para no ser comprometidos en el area de trabajo
+ejercicio para cambiar de ramas
